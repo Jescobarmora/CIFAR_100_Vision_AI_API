@@ -1,0 +1,43 @@
+Entrenando ResNet...
+Epoch [1/20], Loss: 3.6741, Acc: 0.1261
+Epoch [2/20], Loss: 2.5424, Acc: 0.3294
+Epoch [3/20], Loss: 1.9655, Acc: 0.4596
+Epoch [4/20], Loss: 1.6206, Acc: 0.5432
+Epoch [5/20], Loss: 1.3424, Acc: 0.6119
+Epoch [6/20], Loss: 1.1221, Acc: 0.6687
+Epoch [7/20], Loss: 0.9114, Acc: 0.7240
+Epoch [8/20], Loss: 0.7241, Acc: 0.7746
+Epoch [9/20], Loss: 0.5590, Acc: 0.8241
+Epoch [10/20], Loss: 0.4274, Acc: 0.8624
+Epoch [11/20], Loss: 0.3357, Acc: 0.8905
+Epoch [12/20], Loss: 0.2693, Acc: 0.9133
+Epoch [13/20], Loss: 0.2265, Acc: 0.9266
+Epoch [14/20], Loss: 0.1929, Acc: 0.9380
+Epoch [15/20], Loss: 0.1818, Acc: 0.9404
+Epoch [16/20], Loss: 0.1585, Acc: 0.9483
+Epoch [17/20], Loss: 0.1386, Acc: 0.9565
+Epoch [18/20], Loss: 0.1325, Acc: 0.9570
+Epoch [19/20], Loss: 0.1221, Acc: 0.9603
+Epoch [20/20], Loss: 0.1142, Acc: 0.9627
+
+Entrenando EfficientNet...
+Epoch [1/20], Loss: 0.1074, Acc: 0.9647
+Epoch [2/20], Loss: 0.0957, Acc: 0.9689
+Epoch [3/20], Loss: 0.0985, Acc: 0.9679
+Epoch [4/20], Loss: 0.0893, Acc: 0.9716
+Epoch [5/20], Loss: 0.0877, Acc: 0.9720
+Epoch [6/20], Loss: 0.0880, Acc: 0.9717
+Epoch [7/20], Loss: 0.0835, Acc: 0.9729
+Epoch [8/20], Loss: 0.0768, Acc: 0.9751
+Epoch [9/20], Loss: 0.0762, Acc: 0.9752
+Epoch [10/20], Loss: 0.0811, Acc: 0.9745
+Epoch [11/20], Loss: 0.0726, Acc: 0.9776
+Epoch [12/20], Loss: 0.0703, Acc: 0.9775
+Epoch [13/20], Loss: 0.0693, Acc: 0.9781
+Epoch [14/20], Loss: 0.0696, Acc: 0.9785
+Epoch [15/20], Loss: 0.0625, Acc: 0.9799
+Epoch [16/20], Loss: 0.0672, Acc: 0.9789
+Epoch [17/20], Loss: 0.0661, Acc: 0.9786
+Epoch [18/20], Loss: 0.0586, Acc: 0.9810
+Epoch [19/20], Loss: 0.0595, Acc: 0.9809
+Epoch [20/20], Loss: 0.0576, Acc: 0.9811
